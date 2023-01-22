@@ -1,0 +1,26 @@
+body {
+    background-color: beige;
+}
+div#header {
+    width: 100%;
+    background-color: goldenrod;
+    position: absolute;
+    left: 0;
+    font-size: 1em;
+    text-align: center;
+}
+img {
+    float: left;
+}
+footer#bottom {
+    background-color: gray;
+}
+footer#bottom ul {
+    list-style-type: none;
+}
+footer#bottom ul li {
+  display: inline;
+}
+footer#bottom ul li a {
+    text-decoration: none;
+}
